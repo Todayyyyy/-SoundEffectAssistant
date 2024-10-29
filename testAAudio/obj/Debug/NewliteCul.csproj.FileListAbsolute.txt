@@ -1,0 +1,9 @@
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\NewliteCul.csproj.AssemblyReference.cache
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\testAAudio.Form1.resources
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\testAAudio.LoginForm.resources
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\testAAudio.Properties.Resources.resources
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\testAAudio.ShortcutKeyForm.resources
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\NewliteCul.csproj.GenerateResource.cache
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\NewliteCul.csproj.CoreCompileInputs.cache
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\testAAudio.exe
+C:\Users\WYCM\source\repos\testAAudio\testAAudio\obj\Debug\testAAudio.pdb
